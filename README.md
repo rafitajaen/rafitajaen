@@ -1,16 +1,22 @@
+![GitHub Header](./assets/github-header.jpg)
+
+<br />
+
 <h1 align="center">🤠 Howdy! I'm Rafael Jaén</h1>
 
-![GitHub Header](./assets/github-header.jpg)
 
 <p align="center">
 I am a <strong>fullstack developer</strong> from Cadiz, Spain, who enjoys creating modern, accessible, cross-platform and <strong>open source web applications</strong>. 
 </p>
+
 <p align="center"> 
 I mostly code in <strong>Typescript</strong> since I fell in love with <strong>Angular</strong> and many other modern web frameworks earlier this year.
 </p>
+
 <p align="center"> 
 I am <strong>currently working on</strong> a couple of open source projects, including my own <a href="https://github.com/rafitajaen/generatify">Generatify</a>, which is a tool that can be used to <strong>generate strong and secure passwords</strong> for all your online accounts.
 </p>
+
 <p align="center"> 
 I am <strong>always learning</strong> and passionate about the whole process of building software, <strong>from design to development.</strong>
 </p>
@@ -19,7 +25,7 @@ I am <strong>always learning</strong> and passionate about the whole process of 
 
 ## 🌱 Most Recent Projects I've Worked On! 
 
-<br>
+
 
 | 🚀 **Projects** | 📋 **Short Description** | 💻 **Technologies** |
 | - | - | - |
@@ -31,9 +37,11 @@ I am <strong>always learning</strong> and passionate about the whole process of 
 
 
 <br>
+
 <h2 align="center">
 🧐 Let's Get in Touch!
 </h2>
+
 <p align="center"> 
 I look forward to gaining new knowledge, sharing my experiences, collaborating and creating amazing products to make the world a better place!
 </p>
@@ -44,8 +52,10 @@ I look forward to gaining new knowledge, sharing my experiences, collaborating a
 
 </div>
 
+<br>
+
 <h3 align="center"> 
-If you think we share thoughts, just...
+If you think that we share thoughts, just...
 </h3>
 
 ```typescript
@@ -53,10 +63,10 @@ function makeABetterWorldTogether(world: World): string | never {
     
     const sameThoughts: boolean = compareThinking(world.people.you, world.people.me)
 
-if(sameThoughts)
-    return "Just write 'git merge rafitajaen' on the console"
-else
-    throw new Error("undefined error")
+    if(sameThoughts)
+        return "Just write 'git merge rafitajaen' on the console"
+    else
+        throw new Error("It is very likely that the world will explode...")
 
 }
 ```
